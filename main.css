@@ -16,7 +16,7 @@ h1 {
 
 .input_section {
   margin:50px 0px 80px 0px;
-  width: 400px
+  width: 320px
 }
 
 .inputs {
@@ -30,5 +30,5 @@ input {
 }
 
 .add_option {
-  margin-top: 10px
+  margin-top: 10px;
 }
